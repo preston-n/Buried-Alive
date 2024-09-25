@@ -13,11 +13,11 @@
 ### Title Screen
 ![Buried Alive Title](https://github.com/preston-n/Buried-Alive/blob/main/Screenshots/BuriedAlive1.png?raw=true)
 
-### Gameplay
+### Magic Attack
 ![Buried Alive Gameplay](https://github.com/preston-n/Buried-Alive/blob/main/Screenshots/BuriedAlive2.png?raw=true)
 
-### Gameplay
+### Building/Digging
 ![Buried Alive Gameplay](https://github.com/preston-n/Buried-Alive/blob/main/Screenshots/BuriedAlive3.png?raw=true)
 
-### Gameplay
+### Escaping from lava
 ![Buried Alive Gameplay](https://github.com/preston-n/Buried-Alive/blob/main/Screenshots/BuriedAlive4.png?raw=true)
